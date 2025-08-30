@@ -95,12 +95,7 @@ const Index = () => {
               </Card>
             </div>
 
-            <div className="bg-muted rounded-lg p-8 min-h-96 flex items-center justify-center">
-              <div className="text-center">
-                <Icon name="Map" size={64} className="text-primary mx-auto mb-4" />
-                <p className="font-open-sans text-muted-foreground">Карта будет здесь</p>
-              </div>
-            </div>
+
           </div>
         </div>
       </section>
